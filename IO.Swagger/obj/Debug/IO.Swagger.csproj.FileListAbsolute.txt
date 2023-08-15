@@ -1,0 +1,2 @@
+C:\Users\vlamind\source\repos\GotifyClient\IO.Swagger\obj\Debug\IO.Swagger.csproj.AssemblyReference.cache
+C:\Users\vlamind\source\repos\GotifyClient\IO.Swagger\obj\Debug\IO.Swagger.csproj.CoreCompileInputs.cache
